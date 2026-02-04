@@ -1,112 +1,60 @@
-# 👋 Hi there, I’m Monal Prashanth C  
+# I’m Monal Prashanth C — debugging is my cardio
+God's Plan
 
-🎓 AIML Student | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast  
-🚀 Passionate about building secure, scalable & intelligent applications  
-
----
-
-## 🧠 About Me  
-
-I build software where intelligence is part of the design, not an afterthought.
-
-As an AIML pre-final year student, my work sits at the intersection of AI engineering and full-stack development. I enjoy building systems where LLMs, NLP pipelines, and backend logic work together to solve real-world problems.
-
-I prefer problems that require structure and clarity — data pipelines, model integration, backend workflows, and system design.
-If a solution feels fragile, I don’t just tweak it.I redesign it to be robust and scalable.
-
-What I bring:
-• AI & ML foundations with hands-on experience in NLP and CNNs
-• Full-stack application development with clean API design
-• Intelligent automation and ML model integration
-• Strong problem-solving skills using Java, C, and Python
-
-Current areas of focus:
-• AI-powered recruitment and decision-support systems
-• Agentic LLM-based applications
-• End-to-end AI + full-stack product development
-• Applying AI to real-world use cases
-
-About Me:
-I’m an engineering student who learns by building systems, breaking them, and improving them.
-I value structure, clarity, and continuous learning, and I’m actively seeking opportunities to contribute to real-world projects where thoughtful engineering and AI can create meaningful impact.
-
-
-
+Pre-Final Year ML Student | MERN-Stack Dev | ML Enthusiast |
+LLMs and Agentic AI Workflows  
 
 ---
 
-## 🔥 GitHub Stats & Streaks  
+## About Me  
 
-### 🚀 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+I build software where **intelligence is baked into the architecture**, not sprinkled on at the end and hoped for the best.
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+As an **AIML pre-final year student**, my work lives at the intersection of **AI engineering and full-stack development**. I enjoy building systems where **LLMs, NLP pipelines, and backend logic actually talk to each other** and solve real-world problems (not just pass demos).
 
-### 🧮 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+I gravitate toward problems that demand **structure and clarity** — data pipelines, model integration, backend workflows, and system design.  
+If a solution feels fragile, I don’t quick-fix it. I **refactor, redesign, and make it scalable**. No duct-tape engineering here.
 
+## What I Bring  
+
+- Strong **AI & ML foundations** with hands-on experience in **NLP and CNNs**
+- **Full-stack application development** with clean, well-structured API design
+- **Intelligent automation** and practical ML model integration
+- Strong problem-solving skills using **Java, C, and Python**
+
+## Current Areas of Focus  
+
+- **AI-powered recruitment and decision-support systems**
+- **Agentic, LLM-based applications**
+- **End-to-end AI + full-stack product development**
+- Applying AI to **real-world use cases that actually matter**
+  
 ---
 
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=monal95&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=monal95&theme=shadow_red&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=monal95&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🛠️ Tech Stack  
 
-### 💻 Programming Languages
-- Python  
-- JavaScript  
-- Java  
-- C  
+| 💻 Programming Languages | 🌐 Web Development | 🧠 AI / ML / DL | 🗄️ Databases | 🧰 Tools & Platforms |
+|--------------------------|-------------------|---------------|--------------|----------------------|
+| Python                   | HTML5             | Scikit-Learn  | MongoDB      | Git & GitHub         |
+| JavaScript               | CSS3              | TensorFlow    | MySQL        | VS Code              |
+| Java                     | React.js           | Keras         |              | Postman              |
+| C                        | Node.js            | Pandas        |              | Render               |
+|                          | Express.js         | NumPy         |              | RapidAPI             |
+|                          |                   | Matplotlib    |              | Netlify              |
+|                          |                   |               |              | Hugging Face         |
 
-### 🌐 Web Development
-- HTML5  
-- CSS3  
-- React.js  
-- Node.js  
-- Express.js  
-
-### 🧠 AI / ML / DL
-- Scikit-Learn  
-- TensorFlow  
-- Keras  
-- Pandas  
-- NumPy  
-- Matplotlib  
-
-### 🗄️ Databases
-- MongoDB  
-- MySQL  
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Render  
-- RapidAPI  
 
 ---
 
-## 📌 Featured Projects  
-
-- 🔐 **CODATS – AI-Driven Code Analysis & Threat Scanner**
-- 🏋️‍♂️ **Workout Tracker – Full Stack Web App**
-- 📈 **Advanced Stock Intelligence Dashboard**
-- 🧠 **Deep Learning Projects**
-  - MNIST Digit Recognition  
-  - CIFAR-10 Image Classification  
-  - Emotion Recognition  
-  - Skin Cancer Detection  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 LinkedIn: *Add your link here*  
-- 📧 Email: *Add your email here*  
-- 🌐 Portfolio: *Optional*  
-
----
 
 ## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=monal95&color=blue)
 
 ---
 
