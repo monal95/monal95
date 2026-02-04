@@ -7,12 +7,31 @@
 
 ## 🧠 About Me  
 
-- 🎯 Interested in **Artificial Intelligence, Machine Learning & Web Development**
-- 🛠️ Building real-world **full-stack and AI-driven projects**
-- 🔐 Working on **AI-based Code Vulnerability Detection & Security Tools**
-- 🏋️‍♂️ Developing a **Workout Tracker (React + Node + MongoDB)**
-- 📈 Experience with **Stock Prediction & Data Analysis**
-- 🌱 Constant learner, tech explorer  
+I build software where intelligence is part of the design, not an afterthought.
+
+As an AIML pre-final year student, my work sits at the intersection of AI engineering and full-stack development. I enjoy building systems where LLMs, NLP pipelines, and backend logic work together to solve real-world problems.
+
+I prefer problems that require structure and clarity — data pipelines, model integration, backend workflows, and system design.
+If a solution feels fragile, I don’t just tweak it.I redesign it to be robust and scalable.
+
+What I bring:
+• AI & ML foundations with hands-on experience in NLP and CNNs
+• Full-stack application development with clean API design
+• Intelligent automation and ML model integration
+• Strong problem-solving skills using Java, C, and Python
+
+Current areas of focus:
+• AI-powered recruitment and decision-support systems
+• Agentic LLM-based applications
+• End-to-end AI + full-stack product development
+• Applying AI to real-world use cases
+
+About Me:
+I’m an engineering student who learns by building systems, breaking them, and improving them.
+I value structure, clarity, and continuous learning, and I’m actively seeking opportunities to contribute to real-world projects where thoughtful engineering and AI can create meaningful impact.
+
+
+
 
 ---
 
