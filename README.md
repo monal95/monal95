@@ -24,7 +24,6 @@ If a solution feels fragile, I don’t quick-fix it. I **refactor, redesign, and
 
 ## Current Areas of Focus  
 
-- **AI-powered recruitment and decision-support systems**
 - **Agentic, LLM-based applications**
 - **End-to-end AI + full-stack product development**
 - Applying AI to **real-world use cases that actually matter**
