@@ -1,5 +1,4 @@
 # I’m Monal Prashanth C — debugging is my cardio
-God's Plan
 
 Pre-Final Year ML Student | MERN-Stack Dev | ML Enthusiast |
 LLMs and Agentic AI Workflows  
