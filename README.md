@@ -50,10 +50,4 @@ If a solution feels fragile, I don’t quick-fix it. I **refactor, redesign, and
 
 ---
 
-
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=monal95&color=blue)
-
----
-
-⭐ If you like my work, consider starring ⭐ my repositories!
+If you like my work, consider starring ⭐ my repositories!
