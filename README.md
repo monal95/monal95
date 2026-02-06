@@ -29,12 +29,6 @@ If a solution feels fragile, I don’t quick-fix it. I **refactor, redesign, and
   
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=monal95&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=monal95&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monal95&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🛠️ Tech Stack  
 
 | 💻 Programming Languages | 🌐 Web Development | 🧠 AI / ML / DL | 🗄️ Databases | 🧰 Tools & Platforms |
