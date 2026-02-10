@@ -29,6 +29,14 @@ If a solution feels fragile, I don’t quick-fix it. I **refactor, redesign, and
   
 ---
 
+## 🔥 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monal95&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monal95&show_icons=true&theme=radical)
+
+
+---
+
 ## 🛠️ Tech Stack  
 
 | 💻 Programming Languages | 🌐 Web Development | 🧠 AI / ML / DL | 🗄️ Databases | 🧰 Tools & Platforms |
