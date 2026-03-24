@@ -16,7 +16,7 @@ If a solution feels fragile, I don’t quick-fix it. I **refactor, redesign, and
 
 ## What I Bring  
 
-- Strong **AI & ML foundations** with hands-on experience in **NLP and CNNs**
+- Strong **AI & ML foundations** with hands-on experience in **NLP.**
 - **Full-stack application development** with clean, well-structured API design
 - **Intelligent automation** and practical ML model integration
 - Strong problem-solving skills using **Java, C, and Python**
