@@ -1,6 +1,6 @@
 # I’m Monal Prashanth C — debugging is my cardio
 
-Pre-Final Year ML Student | MERN-Stack Dev | ML Enthusiast |
+Final Year ML Student | MERN-Stack Dev | ML Enthusiast |
 LLMs and Agentic AI Workflows  
 
 ---
